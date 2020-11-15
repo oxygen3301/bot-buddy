@@ -1,3 +1,8 @@
+## Hackathon Project
+### Team members
+- Rohitashwa Pareek
+- Shreevardhan Shah
+
 ## What it does
 
 BotBuddy finds people who maybe want to do a music jam, attend a hackathon, play games(CS: GO, Valorant, etc) or spend time having long conversations about quantum mechanics or Shakespeare. It can be added to any large discord community and be used by anyone to find your next partner in crime!
