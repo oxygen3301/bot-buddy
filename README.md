@@ -1,4 +1,4 @@
-## Hackathon Project
+## Hackathon Project - *BotBuddy* Discord Bot
 ### Team members
 - Rohitashwa Pareek
 - Shreevardhan Shah
